@@ -1,4 +1,4 @@
-package practiseProblemsDay3;
+package practiseProblemsDay8;
 
 public class EmpWageUc2 {
 	public static int isFullTime=1;
