@@ -1,4 +1,4 @@
-package practiseProblemsDay3;
+package practiseProblemsDay8;
 
 public class EmpWageUc4 {
 
